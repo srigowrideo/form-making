@@ -113,10 +113,9 @@ hr {
 }
 </style>
 <body>
-  <h2>HTML Image</h2>
-  <img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
-<h3>Modal Signup Form</h3>
+
+<h2>Modal Signup Form</h2>
 
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Sign Up</button>
 
